@@ -1,4 +1,6 @@
 import static org.junit.Assert.*;
+
+import cap03.ConversorDeNumeroRomano;
 import org.junit.Test;
 
 public class ConversorDeNumeroRomanoTest {

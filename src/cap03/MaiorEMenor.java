@@ -1,3 +1,5 @@
+package cap03;
+
 public class MaiorEMenor {
 
     private Produto menor;

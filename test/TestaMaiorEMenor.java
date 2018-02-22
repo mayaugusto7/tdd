@@ -1,3 +1,6 @@
+import cap03.CarrinhoDeCompras;
+import cap03.MaiorEMenor;
+import cap03.Produto;
 import org.junit.Assert;
 import org.junit.Test;
 
