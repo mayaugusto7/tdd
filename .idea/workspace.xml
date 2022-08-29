@@ -1,60 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9dea6bb6-35e7-4260-ac7e-9ff9f00be766" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cap07/CalculadoraDeSalario.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cap07/Cargo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cap07/Funcionario.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cap07/abstracao/DezOuVintePorCento.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cap07/abstracao/QuinzeOuVinteCincoPorCento.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/cap07/abstracao/RegraDeCalculo.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/src/cap06/CarrinhoDeComprasBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tdd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-tdd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/CarrinhoDeCompras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/CarrinhoDeCompras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/ConversorDeNumeroRomano$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/ConversorDeNumeroRomano$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/ConversorDeNumeroRomano.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/ConversorDeNumeroRomano.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/MaiorEMenor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/MaiorEMenor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/TestaMaiorEMenor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/TestaMaiorEMenor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/Cargo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/Cargo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/Funcionario$CalculadoraDeSalario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/Funcionario$CalculadoraDeSalario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/CalculadoraDeSalario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/CalculadoraDeSalario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/Cargo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/Cargo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/TipoTriangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/TipoTriangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/Triangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/Triangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/TrianguloService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/TrianguloService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap05/CarrinhoDeCompras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap05/CarrinhoDeCompras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap05/CarrinhoDeComprasService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap05/CarrinhoDeComprasService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap05/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap05/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap05/MaiorPreco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap05/MaiorPreco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/CalculadoraDeSalario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/CalculadoraDeSalario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/Cargo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/Cargo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/DezOuVintePorCento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/DezOuVintePorCento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/QuinzeOuVinteCincoPorCento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/QuinzeOuVinteCincoPorCento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/RegraDeCalculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/RegraDeCalculo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/CalculadoraDeSalarioBabyStepsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/CalculadoraDeSalarioBabyStepsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/CalculadoraDeSalarioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/CalculadoraDeSalarioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/CarrinhoDeComprasTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/CarrinhoDeComprasTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/ConversorDeNumeroRomanoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/ConversorDeNumeroRomanoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/TestaMaiorEMenor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/TrianguloTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/TrianguloTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap05/MaiorPreco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap05/MaiorPreco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/CarrinhoDeComprasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/CarrinhoDeComprasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TestaMaiorEMenor.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MaiorEMenorTest.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QuinzeOuVinteCincoPorCento.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cap07/abstracao/QuinzeOuVinteCincoPorCento.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DezOuVintePorCento.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cap07/abstracao/DezOuVintePorCento.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-              <folding>
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -130,11 +127,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1366" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectId" id="2DfVDhxewrEHBq4INq5k5W4MvbR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -196,19 +200,29 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15153733" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="extract.method.default.visibility" value="private" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -227,18 +241,6 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="JUnit.CarrinhoDeComprasTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
@@ -247,177 +249,105 @@
       <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraDeSalarioBabyStepsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-tdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculadoraDeSalarioBabyStepsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="CarrinhoDeComprasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="java-tdd" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CarrinhoDeComprasTest" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="CarrinhoDeComprasTest.deveRetornarZeroSeCarrinhoVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="java-tdd" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CarrinhoDeComprasTest" />
       <option name="METHOD_NAME" value="deveRetornarZeroSeCarrinhoVazio" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversorDeNumeroRomanoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-tdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConversorDeNumeroRomanoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TrianguloTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="java-tdd" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TrianguloTest" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="TrianguloTest.deveVerificarSeTrianguloEscaleno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="java-tdd" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TrianguloTest" />
-      <option name="METHOD_NAME" value="deveVerificarSeTrianguloEscaleno" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TrianguloTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TrianguloTest.deveVerificarSeTrianguloEscaleno" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CarrinhoDeComprasTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CarrinhoDeComprasTest.deveRetornarZeroSeCarrinhoVazio" />
+    <list>
+      <item itemvalue="JUnit.ConversorDeNumeroRomanoTest" />
+      <item itemvalue="JUnit.CalculadoraDeSalarioBabyStepsTest" />
+      <item itemvalue="JUnit.TrianguloTest" />
+      <item itemvalue="JUnit.CarrinhoDeComprasTest" />
+      <item itemvalue="JUnit.CarrinhoDeComprasTest.deveRetornarZeroSeCarrinhoVazio" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CarrinhoDeComprasTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CarrinhoDeComprasTest.deveRetornarZeroSeCarrinhoVazio" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TrianguloTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TrianguloTest.deveVerificarSeTrianguloEscaleno" />
+      <list>
+        <item itemvalue="JUnit.CarrinhoDeComprasTest" />
+        <item itemvalue="JUnit.CalculadoraDeSalarioBabyStepsTest" />
+        <item itemvalue="JUnit.ConversorDeNumeroRomanoTest" />
+        <item itemvalue="JUnit.CarrinhoDeComprasTest.deveRetornarZeroSeCarrinhoVazio" />
+        <item itemvalue="JUnit.TrianguloTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -433,6 +363,11 @@
       <workItem from="1519298698368" duration="8608000" />
       <workItem from="1519411424669" duration="3894000" />
       <workItem from="1519645408599" duration="1782000" />
+      <workItem from="1661090013964" duration="766000" />
+      <workItem from="1661254510629" duration="784000" />
+      <workItem from="1661295936382" duration="275000" />
+      <workItem from="1661608134469" duration="1711000" />
+      <workItem from="1661771902760" duration="1090000" />
     </task>
     <servers />
   </component>
@@ -501,16 +436,18 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="8" />
-    </breakpoint-manager>
-    <watches-manager />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/CarrinhoDeComprasTest.java">

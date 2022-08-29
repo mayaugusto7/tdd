@@ -8,12 +8,12 @@ public class MaiorPreco {
 
         double maior = carrinho.getItens().get(0).getValorTotal();
 
-        maior = econtrarMaiorValor(carrinho, maior);
+        maior = encontrarMaiorValor(carrinho, maior);
 
         return maior;
     }
 
-    private double econtrarMaiorValor(CarrinhoDeCompras carrinho, double maior) {
+    private double encontrarMaiorValor(CarrinhoDeCompras carrinho, double maior) {
 
         for ( Item item : carrinho.getItens() ) {
             if ( maior < item.getValorTotal() ) {

@@ -4,7 +4,7 @@ import cap03.Produto;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class TestaMaiorEMenor {
+public class MaiorEMenorTest {
 
     @Test
     public void ordemDecrescente() {
