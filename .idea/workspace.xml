@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dea6bb6-35e7-4260-ac7e-9ff9f00be766" name="Default" comment="TDD Reactivated Learn.">
-      <change afterPath="$PROJECT_DIR$/src/cap08_acoplamento/GeradorDeNotaFiscal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_acoplamento/NFDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_acoplamento/NotaFiscal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_acoplamento/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_acoplamento/SAP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/GeradorDeNotaFiscalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/CalculadoraDeSalario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/Cargo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/DezOuVintePorCento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/QuinzeOuVinteCincoPorCento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/RegraDeCalculo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/CarrinhoDeComprasTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/CarrinhoDeComprasTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap07/CalculadoraDeSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/CalculadoraDeSalario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap07/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/Cargo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap07/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap07/abstracao/DezOuVintePorCento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/abstracao/DezOuVintePorCento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap07/abstracao/QuinzeOuVinteCincoPorCento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/abstracao/QuinzeOuVinteCincoPorCento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap07/abstracao/RegraDeCalculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/abstracao/RegraDeCalculo.java" afterDir="false" />
-    </list>
+    <list default="true" id="9dea6bb6-35e7-4260-ac7e-9ff9f00be766" name="Default" comment="Chap 08 TDD e acoplamento" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,25 +167,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="cap08_acoplamento" />
@@ -358,7 +337,7 @@
       <workItem from="1662212106528" duration="90000" />
       <workItem from="1663449675907" duration="960000" />
       <workItem from="1663505965944" duration="505000" />
-      <workItem from="1663506619677" duration="598000" />
+      <workItem from="1663506619677" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="TDD Reactivated Learn.">
       <created>1661773030784</created>
@@ -367,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661773030784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chap 08 TDD e acoplamento">
+      <created>1663507328279</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663507328279</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -450,7 +436,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TDD Reactivated Learn." />
-    <option name="LAST_COMMIT_MESSAGE" value="TDD Reactivated Learn." />
+    <MESSAGE value="Chap 08 TDD e acoplamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chap 08 TDD e acoplamento" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/CarrinhoDeComprasTest.java">
