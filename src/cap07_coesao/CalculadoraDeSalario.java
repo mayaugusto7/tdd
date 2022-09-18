@@ -1,4 +1,4 @@
-package cap07;
+package cap07_coesao;
 
 public class CalculadoraDeSalario {
 

@@ -1,8 +1,8 @@
-package cap07;
+package cap07_coesao;
 
-import cap07.abstracao.DezOuVintePorCento;
-import cap07.abstracao.QuinzeOuVinteCincoPorCento;
-import cap07.abstracao.RegraDeCalculo;
+import cap07_coesao.abstracao.DezOuVintePorCento;
+import cap07_coesao.abstracao.QuinzeOuVinteCincoPorCento;
+import cap07_coesao.abstracao.RegraDeCalculo;
 
 public enum Cargo {
     DESENVOLVEDOR(new DezOuVintePorCento()),

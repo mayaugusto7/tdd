@@ -1,6 +1,4 @@
-package cap07.abstracao;
-
-import cap07.Funcionario;
+package cap07_coesao.abstracao;
 
 public class DezOuVintePorCento extends RegraDeCalculo {
 

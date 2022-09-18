@@ -1,6 +1,6 @@
-package cap07.abstracao;
+package cap07_coesao.abstracao;
 
-import cap07.Funcionario;
+import cap07_coesao.Funcionario;
 
 public abstract class RegraDeCalculo {
 

@@ -4,46 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dea6bb6-35e7-4260-ac7e-9ff9f00be766" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cap06/CarrinhoDeComprasBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9dea6bb6-35e7-4260-ac7e-9ff9f00be766" name="Default" comment="TDD Reactivated Learn.">
+      <change afterPath="$PROJECT_DIR$/src/cap08_acoplamento/GeradorDeNotaFiscal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_acoplamento/NFDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_acoplamento/NotaFiscal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_acoplamento/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_acoplamento/SAP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/GeradorDeNotaFiscalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-tdd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-tdd.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/CarrinhoDeCompras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/CarrinhoDeCompras.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/ConversorDeNumeroRomano$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/ConversorDeNumeroRomano$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/ConversorDeNumeroRomano.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/ConversorDeNumeroRomano.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/MaiorEMenor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/MaiorEMenor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap03/TestaMaiorEMenor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap03/TestaMaiorEMenor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/Cargo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/Cargo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/Funcionario$CalculadoraDeSalario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/Funcionario$CalculadoraDeSalario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/CalculadoraDeSalario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/CalculadoraDeSalario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/Cargo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/Cargo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/babysteps/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/TipoTriangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/TipoTriangulo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/Triangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/Triangulo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/TrianguloService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap04/triangulos/TrianguloService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap05/CarrinhoDeCompras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap05/CarrinhoDeCompras.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap05/CarrinhoDeComprasService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap05/CarrinhoDeComprasService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap05/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap05/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap05/MaiorPreco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap05/MaiorPreco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/CalculadoraDeSalario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/CalculadoraDeSalario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/Cargo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/Cargo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/DezOuVintePorCento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/DezOuVintePorCento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/QuinzeOuVinteCincoPorCento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/QuinzeOuVinteCincoPorCento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/RegraDeCalculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/RegraDeCalculo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/CalculadoraDeSalarioBabyStepsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/CalculadoraDeSalarioBabyStepsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/CalculadoraDeSalarioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/CalculadoraDeSalarioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/CalculadoraDeSalario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/Cargo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/DezOuVintePorCento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/QuinzeOuVinteCincoPorCento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tdd/cap07/abstracao/RegraDeCalculo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/java-tdd/CarrinhoDeComprasTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/CarrinhoDeComprasTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/ConversorDeNumeroRomanoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/ConversorDeNumeroRomanoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/TestaMaiorEMenor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/java-tdd/TrianguloTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java-tdd/TrianguloTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap05/MaiorPreco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap05/MaiorPreco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/CarrinhoDeComprasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/CarrinhoDeComprasTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TestaMaiorEMenor.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MaiorEMenorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap07/CalculadoraDeSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/CalculadoraDeSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap07/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/Cargo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap07/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap07/abstracao/DezOuVintePorCento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/abstracao/DezOuVintePorCento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap07/abstracao/QuinzeOuVinteCincoPorCento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/abstracao/QuinzeOuVinteCincoPorCento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap07/abstracao/RegraDeCalculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap07_coesao/abstracao/RegraDeCalculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +53,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -224,24 +208,25 @@
   }
 }</component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cap08_acoplamento" />
+      <recent name="cap05" />
+      <recent name="cap04.triangulos" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/cap07" />
       <recent name="$PROJECT_DIR$/src/cap04/babysteps" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cap04.babysteps" />
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="cap05" />
-      <recent name="cap04.triangulos" />
-      <recent name="" />
-    </key>
   </component>
-  <component name="RunManager" selected="JUnit.CarrinhoDeComprasTest">
+  <component name="RunManager" selected="JUnit.GeradorDeNotaFiscalTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -274,17 +259,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarrinhoDeComprasTest.deveRetornarZeroSeCarrinhoVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-tdd" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CarrinhoDeComprasTest" />
-      <option name="METHOD_NAME" value="deveRetornarZeroSeCarrinhoVazio" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ConversorDeNumeroRomanoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-tdd" />
       <option name="PACKAGE_NAME" value="" />
@@ -295,11 +269,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrianguloTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GeradorDeNotaFiscalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-tdd" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TrianguloTest" />
+      <option name="MAIN_CLASS_NAME" value="GeradorDeNotaFiscalTest" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeradorDeNotaFiscalTest.deveGerarNFComValorDeImpostoDescontado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-tdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GeradorDeNotaFiscalTest" />
+      <option name="METHOD_NAME" value="deveGerarNFComValorDeImpostoDescontado" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -331,19 +316,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.GeradorDeNotaFiscalTest" />
+      <item itemvalue="JUnit.GeradorDeNotaFiscalTest.deveGerarNFComValorDeImpostoDescontado" />
       <item itemvalue="JUnit.ConversorDeNumeroRomanoTest" />
       <item itemvalue="JUnit.CalculadoraDeSalarioBabyStepsTest" />
-      <item itemvalue="JUnit.TrianguloTest" />
       <item itemvalue="JUnit.CarrinhoDeComprasTest" />
-      <item itemvalue="JUnit.CarrinhoDeComprasTest.deveRetornarZeroSeCarrinhoVazio" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GeradorDeNotaFiscalTest" />
+        <item itemvalue="JUnit.GeradorDeNotaFiscalTest.deveGerarNFComValorDeImpostoDescontado" />
         <item itemvalue="JUnit.CarrinhoDeComprasTest" />
         <item itemvalue="JUnit.CalculadoraDeSalarioBabyStepsTest" />
         <item itemvalue="JUnit.ConversorDeNumeroRomanoTest" />
-        <item itemvalue="JUnit.CarrinhoDeComprasTest.deveRetornarZeroSeCarrinhoVazio" />
-        <item itemvalue="JUnit.TrianguloTest" />
       </list>
     </recent_temporary>
   </component>
@@ -367,8 +352,22 @@
       <workItem from="1661254510629" duration="784000" />
       <workItem from="1661295936382" duration="275000" />
       <workItem from="1661608134469" duration="1711000" />
-      <workItem from="1661771902760" duration="1090000" />
+      <workItem from="1661771902760" duration="1147000" />
+      <workItem from="1662211876314" duration="119000" />
+      <workItem from="1662212012158" duration="73000" />
+      <workItem from="1662212106528" duration="90000" />
+      <workItem from="1663449675907" duration="960000" />
+      <workItem from="1663505965944" duration="505000" />
+      <workItem from="1663506619677" duration="598000" />
     </task>
+    <task id="LOCAL-00001" summary="TDD Reactivated Learn.">
+      <created>1661773030784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661773030784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -448,6 +447,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TDD Reactivated Learn." />
+    <option name="LAST_COMMIT_MESSAGE" value="TDD Reactivated Learn." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/CarrinhoDeComprasTest.java">
