@@ -19,5 +19,9 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="junit" level="project" />
+    <orderEntry type="library" name="mockito.core" level="project" />
+    <orderEntry type="library" name="hamcrest.all" level="project" />
+    <orderEntry type="library" name="net.bytebuddy.byte.buddy" level="project" />
+    <orderEntry type="library" name="objenesis" level="project" />
   </component>
 </module>

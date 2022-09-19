@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dea6bb6-35e7-4260-ac7e-9ff9f00be766" name="Default" comment="Chap 08 TDD e acoplamento" />
+    <list default="true" id="9dea6bb6-35e7-4260-ac7e-9ff9f00be766" name="Default" comment="Chap 08 TDD e acoplamento">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mockito_core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tdd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-tdd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap08_acoplamento/GeradorDeNotaFiscal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap08_acoplamento/GeradorDeNotaFiscal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap08_acoplamento/NFDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap08_acoplamento/NFDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap08_acoplamento/SAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap08_acoplamento/SAP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/GeradorDeNotaFiscalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/GeradorDeNotaFiscalTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,13 +186,14 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15527344",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
@@ -205,7 +217,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GeradorDeNotaFiscalTest">
+  <component name="RunManager" selected="JUnit.GeradorDeNotaFiscalTest.deveEnviarNFGeradaParaSAP">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -238,21 +250,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversorDeNumeroRomanoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GeradorDeNotaFiscalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-tdd" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConversorDeNumeroRomanoTest" />
+      <option name="MAIN_CLASS_NAME" value="GeradorDeNotaFiscalTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeradorDeNotaFiscalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GeradorDeNotaFiscalTest.deveEnviarNFGeradaParaSAP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-tdd" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GeradorDeNotaFiscalTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="deveEnviarNFGeradaParaSAP" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -295,19 +308,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.GeradorDeNotaFiscalTest.deveEnviarNFGeradaParaSAP" />
       <item itemvalue="JUnit.GeradorDeNotaFiscalTest" />
       <item itemvalue="JUnit.GeradorDeNotaFiscalTest.deveGerarNFComValorDeImpostoDescontado" />
-      <item itemvalue="JUnit.ConversorDeNumeroRomanoTest" />
       <item itemvalue="JUnit.CalculadoraDeSalarioBabyStepsTest" />
       <item itemvalue="JUnit.CarrinhoDeComprasTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GeradorDeNotaFiscalTest.deveEnviarNFGeradaParaSAP" />
         <item itemvalue="JUnit.GeradorDeNotaFiscalTest" />
         <item itemvalue="JUnit.GeradorDeNotaFiscalTest.deveGerarNFComValorDeImpostoDescontado" />
         <item itemvalue="JUnit.CarrinhoDeComprasTest" />
         <item itemvalue="JUnit.CalculadoraDeSalarioBabyStepsTest" />
-        <item itemvalue="JUnit.ConversorDeNumeroRomanoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +350,8 @@
       <workItem from="1662212106528" duration="90000" />
       <workItem from="1663449675907" duration="960000" />
       <workItem from="1663505965944" duration="505000" />
-      <workItem from="1663506619677" duration="794000" />
+      <workItem from="1663506619677" duration="826000" />
+      <workItem from="1663586050420" duration="1550000" />
     </task>
     <task id="LOCAL-00001" summary="TDD Reactivated Learn.">
       <created>1661773030784</created>
@@ -353,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663507328279</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Chap 08 TDD e acoplamento">
+      <created>1663507435153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663507435153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
